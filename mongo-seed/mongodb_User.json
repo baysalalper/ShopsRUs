@@ -1,0 +1,26 @@
+[
+    {
+      "_id": {"$binary": {"base64": "0nfIKFbMWUyaYSuXCHrQfg==", "subType": "03"}},
+      "FullName": "Alper Baysal",
+      "UserId": "1",
+      "Address": "Eskişehir",
+      "UserGroups":["Employee"],
+      "RegistrationDate": "2022-02-17T13:45:27.130Z"
+    },
+    {
+      "_id": {"$binary": {"base64": "+NmvAx4VUEmf9M/mjDc3IQ==", "subType": "03"}},
+      "FullName": "Ahmet Hamdi",
+      "UserId": "2",
+      "Address": "Ankara",
+      "UserGroups":["Affiliate"],
+      "RegistrationDate": "2022-02-17T13:45:27.130Z"
+    },
+    {
+        "_id": {"$binary": {"base64": "XxX3gKtq4UCfzDjs/H7mGA==", "subType": "03"}},
+        "FullName": "Mehmet Hamdi",
+        "UserId": "3",
+        "Address": "Ankara",
+        "UserGroups":[],
+        "RegistrationDate": "2020-02-17T13:45:27.130Z"
+      }
+  ]

@@ -1,0 +1,16 @@
+[
+    {
+        "_id": {"$binary": {"base64": "xc/lLAl89kKLvjPhHtT+UQ==", "subType": "03"}},
+        "Sku": "SKU1",
+        "Name": "Book",
+        "CategoryId": 3,
+        "UnitPrice": 200.0
+      },
+      {
+        "_id": {"$binary": {"base64": "wDZD646dwEqdQXTqfDm6Eg==", "subType": "03"}},
+        "Sku": "SKU2",
+        "Name": "Grocery Item",
+        "CategoryId": 1,
+        "UnitPrice": 200.0
+      }
+    ]

@@ -1,0 +1,12 @@
+[
+    {
+      "_id": {"$binary": {"base64": "0nfIKFbMWUyaYSuXCHrQfg==", "subType": "03"}},
+      "GroupName": "Employee",
+      "DiscountRate": 30
+    },
+    {
+      "_id": {"$binary": {"base64": "+NmvAx4VUEmf9M/mjDc3IQ==", "subType": "03"}},
+      "GroupName": "Affiliate",
+      "DiscountRate": 20
+    }
+  ]
